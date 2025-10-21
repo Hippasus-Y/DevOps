@@ -1,0 +1,1 @@
+print("Cogito Ergo Sum.")
