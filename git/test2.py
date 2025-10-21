@@ -1,0 +1,1 @@
+print("Ohne Musik wäre das Leben ein Irrtum.")
